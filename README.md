@@ -9,4 +9,4 @@ Developed lidar sensor using VL5L0X ToF sensor, MSP432E401Y microcontroller usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mbadalbadalian/MachineLearning.git
+   git clone https://github.com/mbadalbadalian/LidarMappingSystemProject.git
